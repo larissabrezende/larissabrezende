@@ -10,8 +10,10 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D16AQFbemy_C-Y9Ag/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728534230349?e=1736985600&v=beta&t=rmHXCfO_LZzSXM9VbB0FE_crDix47ik1JRPHq-JBLWk"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D22AQEF9Z6RdU__hw/feedshare-shrink_800/feedshare-shrink_800/0/1731389079430?e=1734566400&v=beta&t=6n6pvURM3U5moyHrJzEM3AJ-4Lw8wLZHoU3i_CLOZHw"  />
 </div>
+
+###
 
 ###
 
