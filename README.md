@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 👋🏼 My name is Larissa!, and I'm a front-end developer passionate about technology, transitioning from an administrative career. My goal is to become a full-stack developer. I currently live in Cabedelo, PB, in the metropolitan area of João Pessoa, and I’m part of the Santander Coders program, where I’m expanding my skills in web development. I'm excited to create impactful digital experiences and open to new opportunities in the tech field!</h2>
+<h2 align="left">Hi! 👋🏼 My name is Larissa! I'm a front-end developer passionate about technology, transitioning from an administrative career. My goal is to become a full-stack developer. I currently live in João Pessoa, and I’m part of the Santander Coders program, where I’m expanding my skills in web development. I'm excited to create impactful digital experiences and open to new opportunities in the tech field!</h2>
 
 ###
 
